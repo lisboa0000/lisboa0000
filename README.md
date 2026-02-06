@@ -32,9 +32,8 @@ I have a deep focus on **architecture, performance, clean code, and effective so
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354015506628688/sql.png?ex=6980136b&is=697ec1eb&hm=f648b7e4712dfa0f6b15bcd3aeb6acc9179c68932e9d13a231d9a1183726250d&">
-  <img align="center" alt="PostgreSQLy" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354232309944421/mysql-database.png?ex=6980139f&is=697ec21f&hm=19755474b5405c0619efb018a0922bf313a1edbd8bd152b7b69684f76aeb067e&">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354015506628688/sql.png?ex=698753ab&is=6986022b&hm=bcc1f8ce685642dec0468c37289af2419296cef3560d5c3c28c339303c62552f&">
+  <img align="center" alt="PostgreSQLy" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354232309944421/mysql-database.png?ex=698753df&is=6986025f&hm=dcd2ef03c4c28afd95e6ee79139c714a7ad72e88eebca9f9f5f1cf1524773d3c&">
 
 
 
