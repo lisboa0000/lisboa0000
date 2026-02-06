@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Heleno Lisboa**
 
-<img src="[https://cdn.discordapp.com/attachments/1457151227610529804/1467000443199557704/WTskvNgL.png?ex=697eca21&is=697d78a1&hm=11b7ba1dd89daa3d6a57b09b81fdeb6a2778cf8dfa62d1c2efbe0efa698336aa&](https://cdn.discordapp.com/attachments/1457151227610529804/1467000443199557704/WTskvNgL.png?ex=69875be1&is=69860a61&hm=198bc2672773d729712270296e3bdfa0959cdeec8f4b270a0e03ed20e03d7a8d&)"/>
+<img src="https://cdn.discordapp.com/attachments/1457151227610529804/1467000443199557704/WTskvNgL.png?ex=697eca21&is=697d78a1&hm=11b7ba1dd89daa3d6a57b09b81fdeb6a2778cf8dfa62d1c2efbe0efa698336aa&"/>
 
 
 🚀 **Systems Analyst and Developer | JavaScript, Python e Lua Specialist**  
