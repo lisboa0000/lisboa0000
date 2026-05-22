@@ -1,57 +1,59 @@
-# Hi 👋, I'm **Heleno Lisboa**
+<!-- Corporate & Formal GitHub Profile README for Heleno Lisboa -->
 
-<img src="https://cdn.discordapp.com/attachments/1457151227610529804/1467000443199557704/WTskvNgL.png?ex=69875be1&is=69860a61&hm=198bc2672773d729712270296e3bdfa0959cdeec8f4b270a0e03ed20e03d7a8d&"/>
-
-
-🚀 **Systems Analyst and Developer | JavaScript, Python e Lua Specialist**  
-🇧🇷 Brazil
-
-I build **websites for your product**, **Fivem scripts**, and **high-performance web systems**.
-
-I have a deep focus on **architecture, performance, clean code, and effective solutions**.
----
-
-
-## 🧠 What I do
-
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Subscriptions & Business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
-
-
----
-
-## 🛠️ Tech Stack
-
-<div style="display: inline_block">
-
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354015506628688/sql.png?ex=698753ab&is=6986022b&hm=bcc1f8ce685642dec0468c37289af2419296cef3560d5c3c28c339303c62552f&">
-  <img align="center" alt="PostgreSQLy" height="30" width="40" src="https://cdn.discordapp.com/attachments/1457151227610529804/1467354232309944421/mysql-database.png?ex=698753df&is=6986025f&hm=dcd2ef03c4c28afd95e6ee79139c714a7ad72e88eebca9f9f5f1cf1524773d3c&">
-
-
-
-
-## 🌐 Conecte-se Comigo:
-
-### Redes Sociais
 <div align="center">
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Link%20Bio-0078D6?style=for-the-badge&logo=linktree&logoColor=white" alt="Meus Links"></a>
+  <h1><b>Heleno Lisboa</b></h1>
+  <h3><em>Analista e Desenvolvedor de Sistemas</em></h3>
 </div>
 
+<p align="center">
+  Profissional com sólida experiência em desenvolvimento de sistemas e análise de requisitos, focado na entrega de soluções tecnológicas robustas e eficientes.
+</p>
 
+---
 
+## 💼 Resumo Profissional
+
+Heleno Lisboa é **Analista** e **Desenvolvedor de Sistemas**, especializado no **desenvolvimento de softwares, websites e soluções personalizadas**. Possui experiência com tecnologias como **JavaScript**, **Python**, **Lua**, **MySQL** e **HeidiSQL**, atuando na criação de **sistemas web** de alta performance e **scripts** exclusivos para servidores FiveM. Seu foco está na **arquitetura de software**, otimização de performance, organização de código e desenvolvimento de soluções modernas, escaláveis e eficientes que geram valor e inovação para cada projeto.
 
 
 ---
 
+## 🎯 Áreas de Expertise
 
+-   **Desenvolvimento de Softwares:** Criação de sistemas e aplicações sob medida, focados em automação, gestão e soluções tecnológicas eficientes.
+-   **Otimização de Performance:** Implementação de estratégias para maximizar a velocidade e a eficiência de aplicações.
+-   **Arquitetura e Design de Sistemas:** Concepção e desenvolvimento de arquiteturas escaláveis, seguras e de fácil manutenção.
+-   **Desenvolvimento de Scripts para FiveM:** Criação de sistemas, automações e funcionalidades personalizadas para servidores RP, trazendo mais desempenho, organização e inovação ao servidor.
+-   **Análise de Dados e Dashboards:** Transformação de dados brutos em insights estratégicos através de dashboards e relatórios analíticos.
+-   **Criação de Sites:** Desenvolvimento de sites modernos, responsivos e personalizados para empresas, marcas e projetos digitais.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HeiiSQL-FF0000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bS0xIDcuNDFsMi4yOSAyLjI5TDEyIDE0LjQxIDEwLjcxIDEyLjQxIDEyIDkuNTl6bS00LjI5IDQuMjlsMi4yOSAyLjI5TDEyIDE5LjQxIDEwLjcxIDE3LjQxIDEyIDE0LjU5em04LjU4IDBMMTIgMTkuNDFsMi4yOS0yLjI5TDEyIDE0LjU5eiIvPjwvc3ZnPg==&logoColor=white" alt="HeiiSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+</div>
+
+---
+
+
+
+## 🌐 Conexões Profissionais
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:SEU_EMAIL@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- Adicionei um placeholder para email, que é comum em perfis corporativos -->
+</div>
