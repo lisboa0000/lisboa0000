@@ -78,8 +78,9 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**Script-Blitz**](https://github.com/lisboa0000/Script-Blitz) | Script para auxiliar departamentos de polícia de servidores RP de FiveM em ações diárias. | `Lua` `FiveM` |
-| [**store_api**](https://github.com/lisboa0000/store_api) | API para gerenciamento de uma loja, construída em Python. | `Python` |
-| [**Sistema-Bancario-POO**](https://github.com/lisboa0000/Sistema-Bancario-POO) | Sistema bancário aplicando conceitos de Programação Orientada a Objetos. | `Python` `POO` |
+| [**store_api**](https://github.com/lisboa0000/store_api) | API de produtos desenvolvida com TDD, com filtro de preço, tratamento de erros e testes automatizados com CI. | `Python` `FastAPI` `MongoDB` `Pytest` |
+| [**calculadora-fit**](https://github.com/lisboa0000/calculadora-fit) | Calculadora de IMC, gasto calórico e macros aplicando Clean Architecture, SOLID, Strategy e Repository. | `Python` `Clean Architecture` `Pytest` |
+| [**Sistema-Bancario-POO**](https://github.com/lisboa0000/Sistema-Bancario-POO) | Sistema bancário aplicando conceitos de Programação Orientada a Objetos. | `Python` `POO` `unittest` |
 | [**Imersao-Dados-com-Python-Alura**](https://github.com/lisboa0000/Imersao-Dados-com-Python-Alura) | Análise e visualização de dados desenvolvida na Imersão Dados da Alura. | `Python` `Análise de Dados` |
 | **HM Batidinha** *(repositório privado)* | Site de pedidos de açaí em garrafinha. | `HTML` `CSS` `JavaScript` `Python` |
 
