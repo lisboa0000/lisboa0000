@@ -9,6 +9,14 @@
 
 ---
 
+## <img src="assets/icons/user.svg" width="22" height="22" align="absmiddle"/> Sobre Mim
+
+Estou aprofundando meus estudos em **Arquitetura de Software**, **Clean Code**, **SOLID**, **Design Patterns**, **DDD**, **CQRS** e **Microservices**, além de evoluir no **Inglês**.
+
+Estou aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parcerias em projetos de equipe**.
+
+---
+
 ## <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle"/> Resumo Profissional
 
 Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Crio sistemas web, sites e scripts personalizados para servidores FiveM. Meu foco é entregar código organizado, performático e fácil de manter.
@@ -73,6 +81,7 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 | [**store_api**](https://github.com/lisboa0000/store_api) | API para gerenciamento de uma loja, construída em Python. | `Python` |
 | [**Sistema-Bancario-POO**](https://github.com/lisboa0000/Sistema-Bancario-POO) | Sistema bancário aplicando conceitos de Programação Orientada a Objetos. | `Python` `POO` |
 | [**Imersao-Dados-com-Python-Alura**](https://github.com/lisboa0000/Imersao-Dados-com-Python-Alura) | Análise e visualização de dados desenvolvida na Imersão Dados da Alura. | `Python` `Análise de Dados` |
+| **HM Batidinha** *(repositório privado)* | Site de pedidos de açaí em garrafinha. | `HTML` `CSS` `JavaScript` `Python` |
 
 <p align="center">
   <a href="https://github.com/lisboa0000?tab=repositories">Ver todos os repositórios →</a>
@@ -94,7 +103,8 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 ## <img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle"/> Conexões Profissionais
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:helenolisboadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/lisboa0000" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:helenolisboadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.devlisboa.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4f8cff?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://github.com/lisboa0000" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
