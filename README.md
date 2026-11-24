@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Sistemas web, scripts para servidores FiveM e análise de dados com Python, JavaScript e Lua.
+  Sistemas web, APIs, scripts para servidores FiveM e análise de dados com Python, Java, JavaScript e Lua.
 </p>
 
 ---
@@ -19,7 +19,7 @@ Estou aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e *
 
 ## <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle"/> Resumo Profissional
 
-Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Crio sistemas web, sites e scripts personalizados para servidores FiveM. Meu foco é entregar código organizado, performático e fácil de manter.
+Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Crio sistemas web, sites e scripts personalizados para servidores FiveM. Escrevo testes automatizados e uso CI (GitHub Actions) nos meus projetos de API e arquitetura.
 
 ---
 
@@ -29,7 +29,7 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 -   **Scripts para FiveM:** sistemas e automações para servidores RP.
 -   **Sites responsivos:** páginas modernas para empresas e projetos.
 -   **Dados e dashboards:** relatórios e análises a partir de dados brutos.
--   **Performance e arquitetura:** soluções escaláveis e de fácil manutenção.
+-   **Arquitetura e boas práticas:** Clean Code, SOLID, TDD e CI.
 
 ---
 
@@ -50,14 +50,18 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </p>
 
 ### <img src="assets/icons/database.svg" width="22" height="22" align="absmiddle"/> Banco de dados
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/HeidiSQL-FF0000?style=flat" alt="HeidiSQL"/>
 </p>
 
@@ -81,7 +85,7 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 | [**store_api**](https://github.com/lisboa0000/store_api) | API de produtos desenvolvida com TDD, com filtro de preço, tratamento de erros e testes automatizados com CI. | `Python` `FastAPI` `MongoDB` `Pytest` |
 | [**calculadora-fit**](https://github.com/lisboa0000/calculadora-fit) | Calculadora de IMC, gasto calórico e macros aplicando Clean Architecture, SOLID, Strategy e Repository. | `Python` `Clean Architecture` `Pytest` |
 | [**Sistema-Bancario-POO**](https://github.com/lisboa0000/Sistema-Bancario-POO) | Sistema bancário aplicando conceitos de Programação Orientada a Objetos. | `Python` `POO` `unittest` |
-| [**Imersao-Dados-com-Python-Alura**](https://github.com/lisboa0000/Imersao-Dados-com-Python-Alura) | Análise e visualização de dados desenvolvida na Imersão Dados da Alura. | `Python` `Análise de Dados` |
+| [**consulta-cep-novaera**](https://github.com/lisboa0000/consulta-cep-novaera) | API REST em Spring Boot que consulta endereços por CEP via ViaCEP, com testes automatizados. | `Java` `Spring Boot` `JUnit` |
 | **HM Batidinha** *(repositório privado)* | Site de pedidos de açaí em garrafinha. | `HTML` `CSS` `JavaScript` `Python` |
 
 <p align="center">
@@ -93,13 +97,17 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 ## <img src="assets/icons/chart.svg" width="22" height="22" align="absmiddle"/> Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&theme=tokyonight"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&theme=default" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&theme=tokyonight"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&theme=default" alt="Top Languages"/>
+  </picture>
 </p>
 
 ---
-
-
 
 ## <img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle"/> Conexões Profissionais
 
@@ -107,5 +115,6 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
   <a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:helenolisboadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.devlisboa.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4f8cff?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
+  <a href="https://www.devlisboa.com.br/en/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_(EN)-4f8cff?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio (EN)"></a>
   <a href="https://github.com/lisboa0000" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
