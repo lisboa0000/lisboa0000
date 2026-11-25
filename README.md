@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Heleno Lisboa, Analista e Desenvolvedor de Sistemas. Fundador da HLD Labs, software sob medida." width="100%"/>
+  <img src="assets/banner.svg" alt="Heleno Lisboa, Analista e Desenvolvedor de Sistemas." width="100%"/>
 </p>
 
 <p align="center">
@@ -13,12 +13,6 @@
   <a href="https://www.devlisboa.com.br/en/"><img src="https://img.shields.io/badge/Portfolio_(EN)-0a0a0a?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio (EN)"/></a>
   <a href="https://github.com/lisboa0000"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
-
----
-
-## <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle" alt=""/> HLD Labs
-
-**Software sob medida.** Na HLD Labs eu crio sites, sistemas e apps para comércios locais e empresas de todo o Brasil, com atendimento à distância. O foco é o negócio do cliente ficar **vendendo e organizado** na internet.
 
 ---
 
