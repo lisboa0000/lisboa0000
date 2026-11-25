@@ -15,5 +15,5 @@
 
   <text x="72" y="206" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" fill="#b2bdb7">Analista e Desenvolvedor de Sistemas</text>
 
-  <text x="72" y="248" font-family="'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="15" letter-spacing="1" fill="#8f9a94">Python · Java · JavaScript · Lua</text>
+  <text x="72" y="248" font-family="'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="15" letter-spacing="1" fill="#8f9a94">Python · FastAPI · JavaScript · Lua</text>
 </svg>

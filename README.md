@@ -18,9 +18,9 @@
 
 ## <img src="assets/icons/user.svg" width="22" height="22" align="absmiddle" alt=""/> Sobre Mim
 
-Analista e Desenvolvedor de Sistemas com foco em **back-end e APIs**. Construo sistemas completos, do banco de dados à interface, com **Python (FastAPI, Flask)**, **Java (Spring Boot)** e **JavaScript**, usando **MySQL, PostgreSQL e MongoDB**.
+Analista e Desenvolvedor de Sistemas com foco em **back-end e APIs**. Construo sistemas completos, do banco de dados à interface, com **Python (FastAPI, Flask)** e **JavaScript**, usando **MySQL, PostgreSQL e MongoDB**.
 
-Trabalho com **testes automatizados (Pytest, JUnit)**, **TDD** e **CI com GitHub Actions**, aplicando **Clean Code, SOLID e Clean Architecture**. Também faço sites e sistemas sob demanda, rodo ambientes com **Docker** e escrevo scripts em **Lua** para servidores FiveM.
+Trabalho com **testes automatizados (Pytest)**, **TDD** e **CI com GitHub Actions**, aplicando **Clean Code, SOLID e Clean Architecture**. Também faço sites e sistemas sob demanda, rodo ambientes com **Docker** e escrevo scripts em **Lua** para servidores FiveM.
 
 Estou me aprofundando em **Design Patterns**, **DDD**, **CQRS**, **Microservices** e **Inglês**.
 
@@ -55,8 +55,6 @@ Estou me aprofundando em **Design Patterns**, **DDD**, **CQRS**, **Microservices
 <p align="center">
   <img src="https://img.shields.io/badge/Python-037a3b?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-037a3b?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Java-037a3b?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-037a3b?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Lua-0a0a0a?style=flat&logo=lua&logoColor=white" alt="Lua"/>
@@ -93,7 +91,6 @@ Estou me aprofundando em **Design Patterns**, **DDD**, **CQRS**, **Microservices
 | [**store_api**](https://github.com/lisboa0000/store_api) | API de produtos desenvolvida com TDD, com filtro de preço, tratamento de erros e testes automatizados com CI. | `Python` `FastAPI` `MongoDB` `Pytest` |
 | [**calculadora-fit**](https://github.com/lisboa0000/calculadora-fit) | Calculadora de IMC, gasto calórico e macros aplicando Clean Architecture, SOLID, Strategy e Repository. | `Python` `Clean Architecture` `Pytest` |
 | [**Sistema-Bancario-POO**](https://github.com/lisboa0000/Sistema-Bancario-POO) | Sistema bancário aplicando conceitos de Programação Orientada a Objetos. | `Python` `POO` `unittest` |
-| [**consulta-cep-novaera**](https://github.com/lisboa0000/consulta-cep-novaera) | API REST em Spring Boot que consulta endereços por CEP via ViaCEP, com testes automatizados. | `Java` `Spring Boot` `JUnit` |
 | **HM Batidinha** *(repositório privado)* | Site de pedidos de açaí em garrafinha. | `HTML` `CSS` `JavaScript` `Python` |
 
 <p align="center">
