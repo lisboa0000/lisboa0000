@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Heleno Lisboa, Analista e Desenvolvedor de Sistemas. Fundador da HLD Labs, software sob medida.">
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+
+  <!-- cortes a 45 graus, a assinatura visual da marca -->
+  <polygon points="1010,0 1090,0 880,300 800,300" fill="#037a3b"/>
+  <polygon points="1110,0 1130,0 920,300 900,300" fill="#16a34a"/>
+  <polygon points="1150,0 1200,0 1200,40 990,300 940,300" fill="#14532d"/>
+
+  <g font-family="'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="15" letter-spacing="4" fill="#16a34a">
+    <rect x="72" y="62" width="36" height="4" fill="#16a34a"/>
+    <text x="124" y="69">HLD LABS · SOFTWARE SOB MEDIDA</text>
+  </g>
+
+  <text x="70" y="158" font-family="Archivo, 'Arial Black', Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="2" fill="#f4f6f4">HELENO LISBOA</text>
+
+  <text x="72" y="206" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" fill="#b2bdb7">Analista e Desenvolvedor de Sistemas</text>
+
+  <text x="72" y="248" font-family="'JetBrains Mono', ui-monospace, Consolas, monospace" font-size="15" letter-spacing="1" fill="#8f9a94">Python · Java · JavaScript · Lua  /  Fundador da HLD Labs</text>
+</svg>

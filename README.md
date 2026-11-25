@@ -1,29 +1,38 @@
-<div align="center">
-  <h1><b>Heleno Lisboa</b></h1>
-  <h3><em>Analista e Desenvolvedor de Sistemas</em></h3>
-</div>
+<p align="center">
+  <img src="assets/banner.svg" alt="Heleno Lisboa, Analista e Desenvolvedor de Sistemas. Fundador da HLD Labs, software sob medida." width="100%"/>
+</p>
 
 <p align="center">
-  Sistemas web, APIs, scripts para servidores FiveM e análise de dados com Python, Java, JavaScript e Lua.
+  Sites, sistemas e APIs sob medida, scripts para servidores FiveM e análise de dados.
 </p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/helenolisboadev/"><img src="https://img.shields.io/badge/LinkedIn-037a3b?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:helenolisboadev@gmail.com"><img src="https://img.shields.io/badge/Email-037a3b?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.devlisboa.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-037a3b?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.devlisboa.com.br/en/"><img src="https://img.shields.io/badge/Portfolio_(EN)-0a0a0a?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio (EN)"/></a>
+  <a href="https://github.com/lisboa0000"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
 ---
 
-## <img src="assets/icons/user.svg" width="22" height="22" align="absmiddle"/> Sobre Mim
+## <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle" alt=""/> HLD Labs
+
+**Software sob medida.** Na HLD Labs eu crio sites, sistemas e apps para comércios locais e empresas de todo o Brasil, com atendimento à distância. O foco é o negócio do cliente ficar **vendendo e organizado** na internet.
+
+---
+
+## <img src="assets/icons/user.svg" width="22" height="22" align="absmiddle" alt=""/> Sobre Mim
+
+Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Escrevo testes automatizados e uso CI (GitHub Actions) nos meus projetos de API e arquitetura.
 
 Estou aprofundando meus estudos em **Arquitetura de Software**, **Clean Code**, **SOLID**, **Design Patterns**, **DDD**, **CQRS** e **Microservices**, além de evoluir no **Inglês**.
 
-Estou aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parcerias em projetos de equipe**.
+Aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parcerias em projetos de equipe**.
 
 ---
 
-## <img src="assets/icons/briefcase.svg" width="22" height="22" align="absmiddle"/> Resumo Profissional
-
-Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Crio sistemas web, sites e scripts personalizados para servidores FiveM. Escrevo testes automatizados e uso CI (GitHub Actions) nos meus projetos de API e arquitetura.
-
----
-
-## <img src="assets/icons/target.svg" width="22" height="22" align="absmiddle"/> Áreas de Expertise
+## <img src="assets/icons/target.svg" width="22" height="22" align="absmiddle" alt=""/> O que eu faço
 
 -   **Sistemas sob medida:** aplicações para automação e gestão.
 -   **Scripts para FiveM:** sistemas e automações para servidores RP.
@@ -33,51 +42,52 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 
 ---
 
-## <img src="assets/icons/code.svg" width="22" height="22" align="absmiddle"/> Tecnologias e Ferramentas
+## <img src="assets/icons/code.svg" width="22" height="22" align="absmiddle" alt=""/> Tecnologias e Ferramentas
 
-### <img src="assets/icons/layout.svg" width="22" height="22" align="absmiddle"/> Front-end
+### <img src="assets/icons/layout.svg" width="22" height="22" align="absmiddle" alt=""/> Front-end
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/HTML5-0a0a0a?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-0a0a0a?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### <img src="assets/icons/server.svg" width="22" height="22" align="absmiddle"/> Back-end
+### <img src="assets/icons/server.svg" width="22" height="22" align="absmiddle" alt=""/> Back-end
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-037a3b?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-037a3b?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Java-037a3b?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-037a3b?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Flask-0a0a0a?style=flat&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Lua-0a0a0a?style=flat&logo=lua&logoColor=white" alt="Lua"/>
 </p>
 
-### <img src="assets/icons/database.svg" width="22" height="22" align="absmiddle"/> Banco de dados
+### <img src="assets/icons/database.svg" width="22" height="22" align="absmiddle" alt=""/> Banco de dados
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/HeidiSQL-FF0000?style=flat" alt="HeidiSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/HeidiSQL-0a0a0a?style=flat&logoColor=white" alt="HeidiSQL"/>
 </p>
 
-### <img src="assets/icons/wrench.svg" width="22" height="22" align="absmiddle"/> Ferramentas
+### <img src="assets/icons/wrench.svg" width="22" height="22" align="absmiddle" alt=""/> Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,windows" alt="Ferramentas"/>
+  <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Pytest-0a0a0a?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Postman-0a0a0a?style=flat&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-0a0a0a?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-## <img src="assets/icons/rocket.svg" width="22" height="22" align="absmiddle"/> Projetos em Destaque
+## <img src="assets/icons/rocket.svg" width="22" height="22" align="absmiddle" alt=""/> Projetos em Destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -94,27 +104,22 @@ Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Pytho
 
 ---
 
-## <img src="assets/icons/chart.svg" width="22" height="22" align="absmiddle"/> Estatísticas do GitHub
+## <img src="assets/icons/chart.svg" width="22" height="22" align="absmiddle" alt=""/> Estatísticas do GitHub
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&theme=tokyonight"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&theme=default" alt="GitHub Stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=16a34a&icon_color=16a34a&text_color=e6ede9"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lisboa0000&show_icons=true&count_private=true&hide_border=true&bg_color=f4f6f5&title_color=037a3b&icon_color=037a3b&text_color=0a0a0a" alt="GitHub Stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&theme=tokyonight"/>
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&theme=default" alt="Top Languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=16a34a&text_color=e6ede9"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisboa0000&layout=compact&hide_border=true&bg_color=f4f6f5&title_color=037a3b&text_color=0a0a0a" alt="Top Languages"/>
   </picture>
 </p>
 
 ---
 
-## <img src="assets/icons/globe.svg" width="22" height="22" align="absmiddle"/> Conexões Profissionais
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/helenolisboadev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:helenolisboadev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.devlisboa.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-4f8cff?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
-  <a href="https://www.devlisboa.com.br/en/" target="_blank"><img src="https://img.shields.io/badge/Portfolio_(EN)-4f8cff?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio (EN)"></a>
-  <a href="https://github.com/lisboa0000" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-</div>
+<p align="center">
+  <img src="assets/icons/globe.svg" width="18" height="18" align="absmiddle" alt=""/>
+  <b>Vamos conversar?</b> Fale comigo pelo <a href="https://www.linkedin.com/in/helenolisboadev/">LinkedIn</a> ou por <a href="mailto:helenolisboadev@gmail.com">e-mail</a>.
+</p>
