@@ -18,11 +18,13 @@
 
 ## <img src="assets/icons/user.svg" width="22" height="22" align="absmiddle" alt=""/> Sobre Mim
 
-Analista e Desenvolvedor de Sistemas com experiência em **JavaScript**, **Python**, **Lua** e **MySQL**. Escrevo testes automatizados e uso CI (GitHub Actions) nos meus projetos de API e arquitetura.
+Analista e Desenvolvedor de Sistemas com foco em **back-end e APIs**. Construo sistemas completos, do banco de dados à interface, com **Python (FastAPI, Flask)**, **Java (Spring Boot)** e **JavaScript**, usando **MySQL, PostgreSQL e MongoDB**.
 
-Estou aprofundando meus estudos em **Arquitetura de Software**, **Clean Code**, **SOLID**, **Design Patterns**, **DDD**, **CQRS** e **Microservices**, além de evoluir no **Inglês**.
+Trabalho com **testes automatizados (Pytest, JUnit)**, **TDD** e **CI com GitHub Actions**, aplicando **Clean Code, SOLID e Clean Architecture**. Também faço sites e sistemas sob demanda, rodo ambientes com **Docker** e escrevo scripts em **Lua** para servidores FiveM.
 
-Aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parcerias em projetos de equipe**.
+Estou me aprofundando em **Design Patterns**, **DDD**, **CQRS**, **Microservices** e **Inglês**.
+
+**Busco uma oportunidade em empresa (CLT ou estágio)** como desenvolvedor back-end ou full stack. Também aceito freelas.
 
 ---
 
@@ -63,6 +65,7 @@ Aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parce
 ### <img src="assets/icons/database.svg" width="22" height="22" align="absmiddle" alt=""/> Banco de dados
 
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/HeidiSQL-0a0a0a?style=flat&logoColor=white" alt="HeidiSQL"/>
@@ -73,6 +76,7 @@ Aberto a **vagas CLT ou estágio**, **freelas e projetos sob demanda** e **parce
 <p align="center">
   <img src="https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Pytest-0a0a0a?style=flat&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Postman-0a0a0a?style=flat&logo=postman&logoColor=white" alt="Postman"/>
